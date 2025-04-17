@@ -202,3 +202,6 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/flutter,springboot,intellij,visualstudiocode
 
 "/Flutter frontend/practise2/design/android/app/src/main/res/raw/zegocloud_*.json" 
+**/zegocloud_*.json
+/Flutter frontend/practise2/design/android/app/src/main/res/raw/zegocloud_*.json
+
